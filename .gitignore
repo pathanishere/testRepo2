@@ -1,0 +1,5 @@
+#following is the file i don't want to be monitored by the git.
+#secrete.txt
+#file2.txt
+*.txt
+testFolder/NewFolder/
